@@ -1,0 +1,31 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo '🏗️👷 Fixing your trash before push'
+
+npm run check:format ||
+(
+    echo '🤢🤮🤢🤮 Trash format 🤢🤮🤢🤮
+            Fix your format issues running `yarn fix:format`';
+    false;
+)
+
+# Check ESLint Standards
+npm run check:lint ||
+(
+        echo '😤🏀👋😤 Trash code 😤🏀👋😤 
+                Fix your linter issues running `yarn fix:lint`'
+        false; 
+)
+
+# Check tsconfig standards
+npm run check:types ||
+(
+    echo '🤡😂❌🤡 Trash types 🤡😂❌🤡
+            Fix your types issues manually :P'
+    false;
+)
+
+echo '✅✅✅✅ Success ✅✅✅✅'
+echo ''
+
