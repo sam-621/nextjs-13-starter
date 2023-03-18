@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-starter",
+  "version": "1.0.0",
+  "description": "A Next.js starter fully configured with solution for tailwind, eslint, prettier, file structure paths aliases and more - sam-621/nextjs-starter",
+  "main": "src/_app.ts",
+  "repository": "https://github.com/sam-621/nextjs-starter",
+  "author": "Rogelio Samuel Moreno Corrales <rogeliosamuel621@gmail.com>",
+  "license": "MIT"
+}
