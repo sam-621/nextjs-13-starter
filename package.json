@@ -10,12 +10,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "prepare": "npx husky install && chmod ug+x .husky/*",
-
     "check:types": "tsc --pretty --noEmit",
     "check:format": "prettier --check ./src",
     "check:lint": "eslint . --ext ts --ext tsx --ext js",
-
     "fix:lint": "next lint --fix",
     "fix:types": "tsc --pretty --noEmit",
     "fix:format": "prettier --write ."
@@ -24,5 +21,11 @@
     "next": "^13.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.3",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.2"
   }
 }

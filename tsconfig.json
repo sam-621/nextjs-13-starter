@@ -1,0 +1,42 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/constants/*": ["./src/core/constants/*"],
+      "@/data/*": ["./src/core/data/*"],
+      "@/guards/*": ["./src/core/guards/*"],
+      "@/hooks/*": ["./src/core/hooks/*"],
+      "@/interfaces/*": ["./src/core/interfaces/*"],
+      "@/libs/*": ["./src/core/libs/*"],
+      "@/contexts": ["./src/core/contexts"],
+      "@/wrappers/*": ["./src/core/wrappers/*"],
+      "@/services/*": ["./src/core/services/*"],
+      "@/store/*": ["./src/core/store/*"],
+      "@/types/*": ["./src/core/types/*"],
+      "@/utils/*": ["./src/core/utils/*"],
+      "@/gql/*": ["./src/core/gql/*"],
+
+      "@/modules/*": ["./src/ui/modules/*"],
+      "@/shared/*": ["./src/ui/shared/*"],
+
+      "@/styles/*": ["./src/styles/*"]
+    },
+    "typeRoots": ["./node_modules/@types", "./src/types"]
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
