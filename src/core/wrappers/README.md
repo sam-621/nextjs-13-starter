@@ -1,6 +1,6 @@
 # Wrappers
 
-folder to storage your wrappers or also known as HOC
+Folder to store your wrappers or also known as HOC
 
 ## File example
 

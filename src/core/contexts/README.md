@@ -1,6 +1,6 @@
 # Contexts
 
-folder to storage your React contexts
+Folder to store your React contexts
 
 ## File example
 

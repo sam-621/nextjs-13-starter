@@ -1,6 +1,6 @@
 # Modules
 
-Folder to storage your jsx and React components which are used in more than 1 module or which not are related to any entity or concept
+Folder to store your jsx and React components which are used in more than 1 module or which not are related to any entity or concept
 
 ## File example
 

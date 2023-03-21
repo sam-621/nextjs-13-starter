@@ -1,6 +1,6 @@
 # Modules
 
-folder to storage your jsx about one page
+Folder to store your jsx about one page
 
 ## File example
 

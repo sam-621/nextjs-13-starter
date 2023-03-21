@@ -1,6 +1,6 @@
 # Constants
 
-folder to store your constants like env variables, dates, some business constants and more
+Folder to store your constants like env variables, dates, some business constants and more
 
 ## File example
 

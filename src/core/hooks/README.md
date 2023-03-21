@@ -1,6 +1,6 @@
 # Hooks
 
-folder to storage your utility hooks and petitions hooks 
+Folder to store your utility hooks and petitions hooks 
 
 ## File example
 

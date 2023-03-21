@@ -1,6 +1,6 @@
 # Services
 
-folder to storage your services which are the intermediary between your api and your frontend application, here your are going to add the logic of the request and also the library to make them
+Folder to store your services which are the intermediary between your API and your frontend application, here your are going to add the logic of the request and also the library to make them
 
 ## File example
 

@@ -1,6 +1,6 @@
 # Types
 
-folder to storage your utilities or also known as helpers, here is going to be the functions or class helpers for your project
+Folder to store your utilities or also known as helpers, here is going to be the functions or class helpers for your project
 
 ## File example
 

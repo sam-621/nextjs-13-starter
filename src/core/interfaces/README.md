@@ -1,6 +1,6 @@
 # Interfaces
 
-folder to storage your interfaces related to entities, concepts or utility interfaces form your application
+Folder to store your interfaces related to entities, concepts or utility interfaces from your application
 
 ## File example
 

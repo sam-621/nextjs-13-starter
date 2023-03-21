@@ -1,6 +1,6 @@
 # Gql
 
-folder to storage your queries and mutations from your graphql server
+Folder to store your queries and mutations from your graphql server
 
 ## File example
 

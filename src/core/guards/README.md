@@ -1,6 +1,6 @@
 # Constants
 
-folder to storage your guards to manage the security, protected routes, user roles, etc...
+Folder to store your guards to manage the security, protected routes, user roles, etc...
 
 ## File example
 

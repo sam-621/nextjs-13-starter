@@ -1,6 +1,6 @@
 # Libs
 
-folder to storage your code related to your libraries to avoid leaving crumbs of the library in your project and keep that code in one place in case you want to change the library in the future
+Folder to store your code related to your libraries to avoid leaving crumbs of the library in your project and keep that code in one place in case you want to change the library in the future
 
 ## File example
 

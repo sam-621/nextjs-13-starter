@@ -1,6 +1,6 @@
 # Types
 
-folder to storage your type declarations, if you have to extend some library type or add to it, here is the place
+Folder to store your type declarations, if you have to extend some library type or add to it, here is the place
 
 ## File example
 
